@@ -37,3 +37,6 @@ Function BoasVindas(nome) {
  | :---    | :---    | :---   |
  | HTML    | Sim     |Ativo   |
  |Markdonw | sim     | Ativo  |
+
+ ![PC](HIT.png)
+
